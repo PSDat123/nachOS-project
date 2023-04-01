@@ -7,7 +7,6 @@
 int main() {
 	int N, i, j, tmp;
 	int a[100];
-	PrintString(s);
 	PrintString("=====SORTING=====\n");
 	PrintString("Input N (<100) = ");
 	N = ReadInt();
